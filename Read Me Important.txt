@@ -1,0 +1,7 @@
+frontend:
+Used  React + Vite
+chromeDiver x64 latest version for testing Purpose
+
+backend
+used express js;
+used api for data fetch All api keys are included
